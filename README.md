@@ -1,4 +1,4 @@
-# Gen-AF
+# DarkSAM
 
 The implementation of our NeurIPS 2024 paper "DarkSAM: Fooling Segment Anything Model to Segment Nothing".
 
