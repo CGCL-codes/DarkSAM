@@ -10,7 +10,7 @@ Segment Anything Model (SAM) has recently gained much attention for its outstand
 <img src="image/pipeline.png"/>
 
 ## Latest Update
-**2024/11/1**   We have released the official implementation code.
+**2024/11/4**   We have released the official implementation code.
 ## Setup
 - **Get code**
 ```shell 
@@ -68,7 +68,7 @@ If you find DarkSAM both interesting and helpful, please consider citing us in y
 @inproceedings{zhou2024darksam,
   title={Darksam: Fooling segment anything model to segment nothing},
   author={Zhou, Ziqi and Song, Yufei and Li, Minghui and Hu, Shengshan and Wang, Xianlong and Zhang, Leo Yu and Yao, Dezhong and Jin, Hai},
-  booktitle={ Proceedings of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)},
+  booktitle={Proceedings of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)},
   year={2024}
 }
 ```
